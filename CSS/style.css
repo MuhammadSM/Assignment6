@@ -9,7 +9,6 @@
 	background-color: rgb(69,244,66);
 	margin: 25px;
 	left: 28%;
-	background-position: 50%;
 }
 
 .boxTwo {
@@ -20,7 +19,6 @@
 	background-color: rgb(69,244,66);
 	margin: 25px;
 	left: 0px;
-	background-position: center;
 	display: inline-block;
 }
 
@@ -43,7 +41,6 @@
 	background-color: rgb(69,244,66);
 	margin: 25px;
 	left:0px;
-	background-position: 50%;
 	z-index: -100
 }
 
